@@ -1,0 +1,18 @@
+{
+  "name": "api-roman-numeral-converter",
+  "version": "1.0.0",
+  "description": "Convert the given number into a roman numeral",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "keywords": [
+    "api",
+    "roman",
+    "converter"
+  ],
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
