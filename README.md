@@ -8,7 +8,7 @@ We will build a simple API that converts given number into a roman numeral with 
 
 * [Express Hello World Example](http://expressjs.com/en/starter/hello-world.html)
 
-##Create a new App
+## Create a new App
 
 Create a new project folder:
 
@@ -79,4 +79,4 @@ node_modules
 npm-debug.log
 ```
 
-Run `npm start` and visit http://localhost:3000/
+Run `npm start` and start making request. http://localhost:3000/to-roman/1000
